@@ -1,2 +1,2 @@
 # GorillaUI
-A lil ui on your right hand showing your Colour code and Name.
+GorillaUI is a user interface which adds info such as your color code, displayname, and more (soon).
